@@ -4,3 +4,4 @@ git push origin main
 git pull origin main
 git resotre file name
 git diff fileName
+i made the changes
