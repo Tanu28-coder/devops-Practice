@@ -1,0 +1,6 @@
+git init
+git checkout main
+git push origin main
+git pull origin main
+git resotre file name
+git diff fileName
